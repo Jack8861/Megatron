@@ -1,4 +1,4 @@
-# ineuron_megatron
+# megatron
 
 ##Install requirements.txt
 
