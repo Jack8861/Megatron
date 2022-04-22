@@ -1,8 +1,8 @@
 # megatron
 
-##Install requirements.txt
+### Install requirements.txt
 
-##Model can be downloaded from:-https://drive.google.com/drive/folders/1neHfilNkrCwtry3dA7bTCADH3EheKdYo?usp=sharing
+### Model can be downloaded from:-https://drive.google.com/drive/folders/1neHfilNkrCwtry3dA7bTCADH3EheKdYo?usp=sharing
 
 This is a question answering system which is used to service users at websites.
 
